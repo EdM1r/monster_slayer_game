@@ -21,6 +21,6 @@ done  4. Fix a bug with hiting [enter] on player_choise
 
 7. Add exp progression system which adds exp for slayed mosnter based on it's health and attack 
 
-8. Refactore code and get rid on array index instead of variables
+done  8. Refactore code and get rid on array index instead of variables
 
 
