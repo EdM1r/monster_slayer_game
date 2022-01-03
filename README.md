@@ -23,6 +23,6 @@ done  4. Fix a bug with hiting [enter] on player_choise
 
 done  8. Refactore code and get rid on array index instead of variables
 
-9. Rewrite code to add f-lines in it
+9. Rewrite code to add f-strings in it
 
 
